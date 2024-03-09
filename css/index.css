@@ -1,0 +1,47 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+.form-inp{
+    margin: 0 auto;
+    padding-top: 20px;
+    /* background-color: antiquewhite; */
+}
+.form-inp__two{
+    padding-top: 50px;
+    /* background-color: antiquewhite; */
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+}
+.wrapper__two{
+    margin: 0 auto;
+    width: 388px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.element{
+    display: flex;
+    border-radius: 10px;
+}
+.sub{
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    word-wrap: break-word;
+    width: 175px;
+    border: solid 1px;
+    margin: 0;
+    border-radius: 10px 0 0 10px;
+}
+.homework{
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    width: 127px;
+    word-wrap: break-word;
+    border: solid 1px;
+    margin: 0;
+    padding-left: 10px;
+}
